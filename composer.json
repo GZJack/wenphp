@@ -1,0 +1,14 @@
+{
+    "name": "gzjack/wenphp",
+    "description": "wenphp 是一个迷你版的 php mvc框架",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "GZJack",
+            "email": "306056405@qq.com"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {}
+}
